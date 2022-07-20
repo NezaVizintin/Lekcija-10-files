@@ -1,0 +1,2 @@
+third text file
+printed using for loop to read file line by line
